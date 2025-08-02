@@ -1,4 +1,0 @@
-echo "# Client app" > client/README.md
-git add client/README.md
-git commit -m "Add client folder with README"
-git push
